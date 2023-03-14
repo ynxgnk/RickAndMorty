@@ -13,6 +13,7 @@ final class RMTabBarController: UITabBarController { /* 7 */ /* 8 final - means 
         super.viewDidLoad()
         //view.backgroundColor = .red /* 0 */
         setUpTabs() /* 10 */
+        
     }
 
     private func setUpTabs() { /* 9 */
